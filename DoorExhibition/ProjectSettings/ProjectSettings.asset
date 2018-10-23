@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 752fba7034b66f849846921ff0f324a4
+  productGUID: 20dc0dc6cc2372f439316762de177b63
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -125,7 +125,6 @@ PlayerSettings:
   m_HolographicPauseOnTrackingLoss: 1
   xboxOneDisableKinectGpuReservation: 0
   xboxOneEnable7thCore: 0
-  isWsaHolographicRemotingEnabled: 0
   vrSettings:
     cardboard:
       depthFormat: 0
@@ -649,8 +648,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 025d0b99-f83b-4163-a3ab-c27794ff0bb4
-  projectName: DoorExhibition
+  cloudProjectId: 9f9a89d3-a6d1-409b-ba8e-2ac4580a1c7f
+  projectName: DoorExhibition (2)
   organizationId: sop3
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

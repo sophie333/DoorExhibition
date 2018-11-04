@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 72fec14e1cbca46489c2f99e3ea0aa6b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Backside009
+    100002: Bar
+    100004: //RootNode
+    100006: Handle
+    100008: Lock
+    100010: Lock001
+    100012: Screw001
+    100014: Screw002
+    100016: Screw003
+    100018: Screw004
+    100020: Screw005
+    100022: Screw006
+    100024: Screw007
+    100026: Screw008
+    100028: Screw009
+    100030: Screw010
+    100032: Screw011
+    100034: Screw012
+    100036: Screw013
+    100038: Screw014
+    100040: Screw015
+    100042: Screw016
+    100044: Screw017
+    100046: Screw018
+    100048: Screw019
+    100050: Screw020
+    100052: Screw021
+    100054: Screw022
+    400000: Backside009
+    400002: Bar
+    400004: //RootNode
+    400006: Handle
+    400008: Lock
+    400010: Lock001
+    400012: Screw001
+    400014: Screw002
+    400016: Screw003
+    400018: Screw004
+    400020: Screw005
+    400022: Screw006
+    400024: Screw007
+    400026: Screw008
+    400028: Screw009
+    400030: Screw010
+    400032: Screw011
+    400034: Screw012
+    400036: Screw013
+    400038: Screw014
+    400040: Screw015
+    400042: Screw016
+    400044: Screw017
+    400046: Screw018
+    400048: Screw019
+    400050: Screw020
+    400052: Screw021
+    400054: Screw022
+    2100000: 'Material #28'
+    2100002: Bar
+    2100004: Handle
+    2100006: 'Material #29'
+    2300000: Backside009
+    2300002: Bar
+    2300004: Handle
+    2300006: Lock
+    2300008: Lock001
+    2300010: Screw001
+    2300012: Screw002
+    2300014: Screw003
+    2300016: Screw004
+    2300018: Screw005
+    2300020: Screw006
+    2300022: Screw007
+    2300024: Screw008
+    2300026: Screw009
+    2300028: Screw010
+    2300030: Screw011
+    2300032: Screw012
+    2300034: Screw013
+    2300036: Screw014
+    2300038: Screw015
+    2300040: Screw016
+    2300042: Screw017
+    2300044: Screw018
+    2300046: Screw019
+    2300048: Screw020
+    2300050: Screw021
+    2300052: Screw022
+    3300000: Backside009
+    3300002: Bar
+    3300004: Handle
+    3300006: Lock
+    3300008: Lock001
+    3300010: Screw001
+    3300012: Screw002
+    3300014: Screw003
+    3300016: Screw004
+    3300018: Screw005
+    3300020: Screw006
+    3300022: Screw007
+    3300024: Screw008
+    3300026: Screw009
+    3300028: Screw010
+    3300030: Screw011
+    3300032: Screw012
+    3300034: Screw013
+    3300036: Screw014
+    3300038: Screw015
+    3300040: Screw016
+    3300042: Screw017
+    3300044: Screw018
+    3300046: Screw019
+    3300048: Screw020
+    3300050: Screw021
+    3300052: Screw022
+    4300000: Lock
+    4300002: Bar
+    4300004: Handle
+    4300006: Backside009
+    4300008: Lock001
+    4300010: Screw001
+    4300012: Screw002
+    4300014: Screw003
+    4300016: Screw004
+    4300018: Screw005
+    4300020: Screw006
+    4300022: Screw007
+    4300024: Screw008
+    4300026: Screw009
+    4300028: Screw010
+    4300030: Screw011
+    4300032: Screw012
+    4300034: Screw013
+    4300036: Screw014
+    4300038: Screw015
+    4300040: Screw016
+    4300042: Screw017
+    4300044: Screw018
+    4300046: Screw019
+    4300048: Screw020
+    4300050: Screw021
+    4300052: Screw022
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
